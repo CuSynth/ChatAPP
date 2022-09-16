@@ -1,0 +1,76 @@
+# ninja log v5
+20	38	1653238981796488753	CMakeFiles/Server.dir/Server_autogen/mocs_compilation.cpp.o	a527d268743c6ba9
+8	1152	1653228432284144619	CMakeFiles/Server.dir/server_main.cpp.o	5a7cd5468301fd4c
+13	469	1653351119743688435	CMakeFiles/Server.dir/Common/Net.cpp.o	c771f0cdd2abfbcf
+14	1598	1653351120871687428	CMakeFiles/Server.dir/Server/Database.cpp.o	d64308c59a0eec51
+13	25	1653238974399959446	CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o	e7aec9a1b02392b4
+15	526	1653351119799688385	CMakeFiles/Client.dir/Client/Client.cpp.o	9d70128678510da6
+15	504	1653343676581663135	CMakeFiles/Client.dir/Client/client_main.cpp.o	8572a6e85e320305
+3	14	1653351119287688844	Client_autogen/timestamp	f14c1e945b91eb07
+14	497	1653351119771688410	CMakeFiles/Client.dir/Common/Net.cpp.o	be436cd314242452
+526	603	1653351119875688316	Client	ea936eb26f3a129a
+0	71	1653341026130496530	build.ninja	ee0be3ea4033cf8
+15	1328	1653349767341093849	CMakeFiles/Server.dir/Server/server.cpp.o	91897da7d2087ba6
+2	12	1653351119287688844	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/timestamp	5d9ae42c57821afb
+8	1063	1653347770287731043	CMakeFiles/Server.dir/Server/server_main.cpp.o	b27dbd5128fae15c
+1598	1776	1653351121047687272	Server	9cc822adea1b6760
+3	14	1653351119287688844	Client_autogen/mocs_compilation.cpp	f14c1e945b91eb07
+8	1126	1653228508248549677	CMakeFiles/Client.dir/client_main.cpp.o	fe63bc7562de6779
+15	426	1653351119699688474	CMakeFiles/Client.dir/Common/Message.cpp.o	249af4b2734a4a1a
+21	444	1653238982204517772	CMakeFiles/Server.dir/Common/User.cpp.o	19a27ab17c775deb
+3	14	1653351119287688844	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Client_autogen/timestamp	f14c1e945b91eb07
+2	12	1653351119287688844	Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+2	12	1653351119287688844	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+13	393	1653351119667688503	CMakeFiles/Server.dir/Common/Message.cpp.o	cfda00d62c16bb12
+13	394	1653238974767985934	CMakeFiles/Client.dir/Common/User.cpp.o	489293128f2b0b93
+2	12	1653351119287688844	Server_autogen/timestamp	5d9ae42c57821afb
+3	14	1653351119287688844	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Client_autogen/mocs_compilation.cpp	f14c1e945b91eb07
+2	14	1653351345191619223	Server_autogen/timestamp	5d9ae42c57821afb
+2	14	1653351345191619223	Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+2	14	1653351345191619223	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/timestamp	5d9ae42c57821afb
+2	14	1653351345191619223	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+15	1178	1653351346355619460	CMakeFiles/Server.dir/Server/server.cpp.o	91897da7d2087ba6
+1178	1347	1653351346523619495	Server	9cc822adea1b6760
+2	9	1653351567703747346	Server_autogen/timestamp	5d9ae42c57821afb
+2	9	1653351567703747346	Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+2	9	1653351567703747346	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/timestamp	5d9ae42c57821afb
+2	9	1653351567703747346	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+10	468	1653351568159747756	CMakeFiles/Server.dir/Common/Net.cpp.o	c771f0cdd2abfbcf
+9	1114	1653351568807748341	CMakeFiles/Server.dir/Server/server_main.cpp.o	b27dbd5128fae15c
+10	1310	1653351569003748517	CMakeFiles/Server.dir/Server/server.cpp.o	91897da7d2087ba6
+10	1592	1653351569283748771	CMakeFiles/Server.dir/Server/Database.cpp.o	d64308c59a0eec51
+1592	1735	1653351569427748901	Server	9cc822adea1b6760
+1	8	1653352499461230500	Server_autogen/timestamp	5d9ae42c57821afb
+1	8	1653352499461230500	Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+1	8	1653352499461230500	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/timestamp	5d9ae42c57821afb
+1	8	1653352499461230500	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+1	9	1653352499461230500	Client_autogen/timestamp	f14c1e945b91eb07
+1	9	1653352499461230500	Client_autogen/mocs_compilation.cpp	f14c1e945b91eb07
+1	9	1653352499461230500	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Client_autogen/timestamp	f14c1e945b91eb07
+1	9	1653352499461230500	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Client_autogen/mocs_compilation.cpp	f14c1e945b91eb07
+9	569	1653352500021231606	CMakeFiles/Client.dir/Client/client_main.cpp.o	8572a6e85e320305
+9	605	1653352500053231669	CMakeFiles/Client.dir/Common/Net.cpp.o	be436cd314242452
+9	674	1653352500125231811	CMakeFiles/Client.dir/Client/Client.cpp.o	9d70128678510da6
+9	779	1653352500229232016	CMakeFiles/Server.dir/Common/Net.cpp.o	c771f0cdd2abfbcf
+674	813	1653352500265232087	Client	ea936eb26f3a129a
+8	1399	1653352500849233241	CMakeFiles/Server.dir/Server/server_main.cpp.o	b27dbd5128fae15c
+9	1642	1653352501093233722	CMakeFiles/Server.dir/Server/server.cpp.o	91897da7d2087ba6
+1642	1813	1653352501265234062	Server	9cc822adea1b6760
+3	17	1653352564949360623	Server_autogen/timestamp	5d9ae42c57821afb
+3	17	1653352564949360623	Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+3	17	1653352564949360623	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/timestamp	5d9ae42c57821afb
+3	17	1653352564949360623	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+18	1489	1653352566417363559	CMakeFiles/Server.dir/Server/Database.cpp.o	d64308c59a0eec51
+1489	1643	1653352566573363871	Server	9cc822adea1b6760
+3	13	1653352621633474497	Server_autogen/timestamp	5d9ae42c57821afb
+3	13	1653352621633474497	Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+3	13	1653352621633474497	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/timestamp	5d9ae42c57821afb
+3	13	1653352621633474497	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+14	1317	1653352622937477129	CMakeFiles/Server.dir/Server/Database.cpp.o	d64308c59a0eec51
+1317	1460	1653352623077477412	Server	9cc822adea1b6760
+1	8	1653358106857178592	Server_autogen/timestamp	5d9ae42c57821afb
+1	8	1653358106857178592	Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+1	8	1653358106857178592	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/timestamp	5d9ae42c57821afb
+1	8	1653358106857178592	/home/kkorzhanevskii/Console chat app/cmake-build-debug/Server_autogen/mocs_compilation.cpp	5d9ae42c57821afb
+8	1506	1653358108357411608	CMakeFiles/Server.dir/Server/server.cpp.o	91897da7d2087ba6
+1506	1696	1653358108545440861	Server	9cc822adea1b6760
