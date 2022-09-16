@@ -1,8 +1,0 @@
-/home/kkorzhanevskii/Console chat app/cmake-build-release-system/CMakeFiles/Server.dir
-/home/kkorzhanevskii/Console chat app/cmake-build-release-system/CMakeFiles/Client.dir
-/home/kkorzhanevskii/Console chat app/cmake-build-release-system/CMakeFiles/edit_cache.dir
-/home/kkorzhanevskii/Console chat app/cmake-build-release-system/CMakeFiles/rebuild_cache.dir
-/home/kkorzhanevskii/Console chat app/cmake-build-release-system/CMakeFiles/Server_autogen_timestamp_deps.dir
-/home/kkorzhanevskii/Console chat app/cmake-build-release-system/CMakeFiles/Server_autogen.dir
-/home/kkorzhanevskii/Console chat app/cmake-build-release-system/CMakeFiles/Client_autogen_timestamp_deps.dir
-/home/kkorzhanevskii/Console chat app/cmake-build-release-system/CMakeFiles/Client_autogen.dir

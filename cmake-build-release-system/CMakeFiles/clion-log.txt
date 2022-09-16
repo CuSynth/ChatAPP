@@ -1,4 +1,0 @@
-/snap/clion/190/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/snap/clion/190/bin/ninja/linux/ninja -G Ninja -S "/home/kkorzhanevskii/Console chat app" -B "/home/kkorzhanevskii/Console chat app/cmake-build-release-system"
--- Configuring done
--- Generating done
--- Build files have been written to: /home/kkorzhanevskii/Console chat app/cmake-build-release-system
