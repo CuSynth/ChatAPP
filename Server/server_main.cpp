@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
         }
 
         Server server;
-        server.start("localhost", "postgres", "30012001", "chatting");
+        server.start("localhost", "postgres", "pass", "chatting");
 
     }
     catch(const std::exception& e) {

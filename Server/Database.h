@@ -12,7 +12,9 @@
 #include "User.h"
 #include "Message.h"
 
-
+/** Database: class implementing connection to database.
+ *
+ */
 class Database
 {
 public:

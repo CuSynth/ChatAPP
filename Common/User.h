@@ -6,6 +6,14 @@
 #include <fstream>
 #include <utility>
 
+/**
+ * User data class
+ *
+ * This class stores name, login and password for one user.
+ *
+ * You can set/get any data using corresponding functions.
+ */
+
 class User {
 public:
     User() = default;

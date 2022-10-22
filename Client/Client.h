@@ -5,9 +5,16 @@
 #pragma once
 #include <vector>
 #include "Net.h"
-
+/** Client^ class implementing client application
+ *
+ */
 class Client {
 public:
+
+    /*** Star: connect to the server and star main loop.
+     *
+     * @param host [in] string with an addres of host to connect
+     */
     void start(std::string host = "127.0.0.1");
 
 private:

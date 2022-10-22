@@ -9,9 +9,26 @@
 #include "Net.h"
 #include "Database.h"
 
-class Server
-{
+/** TODO: Give more rules for administrators.
+ *   Implement password encryption
+ *
+ */
+
+
+
+/** Server: the server itself.
+ *
+ */
+class Server {
 public:
+    /** start: connect server to database.
+     *  Then, if connected, in loop wait for new connections/new data and process them
+     *
+     * @param dbHost [in] string with database host address
+     * @param dbUser [in] string with database host username
+     * @param dbPass [in] string with database host password
+     * @param dbBase [in] string - the name of database to store data
+     */
     void start(std::string dbHost, std::string dbUser, std::string dbPass, std::string dbBase);
 
 private:

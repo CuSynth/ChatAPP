@@ -7,6 +7,7 @@
 Net::Net(sockaddr_in& _addr, bool is_server) : addr(_addr) {
 
     addr_length = sizeof(addr);
+    // Open socket
     socket_fd = socket(AF_INET, SOCK_STREAM, 0);
     if (socket_fd == -1){
         std::cerr << "sock -1 ret\n";
@@ -15,6 +16,7 @@ Net::Net(sockaddr_in& _addr, bool is_server) : addr(_addr) {
 
     if(is_server) {
         int on = 1;
+        // Set socket as nonblocking
         if (ioctl(socket_fd, FIONBIO, (char *)&on)  == -1) {
             std::cerr << "sock ioctl -1 ret\n";
             throw std::runtime_error(std::strerror(errno));
@@ -24,9 +26,11 @@ Net::Net(sockaddr_in& _addr, bool is_server) : addr(_addr) {
     num_fd = 1;
     memset(fds, 0 , sizeof(fds));
 
+    // Set the first fd as current connection
     fds[0].fd = socket_fd;
     fds[0].events = POLLIN;
 
+    // Debug using std::cout, why not :)
     std::cout << "Socket " << socket_fd << " opened" << std::endl;
 }
 
@@ -35,8 +39,7 @@ Net::~Net() {
     close(socket_fd);
 }
 
-void Net::Bind()
-{
+void Net::Bind() {
     int result = bind(socket_fd, reinterpret_cast<struct sockaddr*>(&addr), addr_length);
     if (result == -1) {
         std::cerr << "bind -1 ret\n";

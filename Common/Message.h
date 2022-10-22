@@ -7,6 +7,9 @@
 #include <fstream>
 #include <utility>
 
+/** Message: class that holds an information about some message.
+ *
+ */
 class Message {
 public:
     Message() = default;
@@ -35,6 +38,9 @@ private:
     bool grouped = false;
 };
 
+/** BanMsg: class that holds an information about who, where, why and by whom was banned
+ *
+ */
 class BanMsg {
 public:
     BanMsg() = default;
